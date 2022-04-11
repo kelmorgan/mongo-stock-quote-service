@@ -1,0 +1,1 @@
+# mongo-stock-quote-service
